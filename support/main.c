@@ -12,6 +12,7 @@
    SPDX-License-Identifier: GPL-3.0-or-later */
 
 #include "support.h"
+#include "simrv.h"
 
 
 int __attribute__ ((used))
@@ -33,6 +34,9 @@ main (int argc __attribute__ ((unused)),
   /* bmarks that use arrays will check a global array rather than int result */
 
   correct = verify_benchmark (result);
+
+  // simrv function
+  simrv_exit();
 
   return (!correct);
 
