@@ -7,4 +7,4 @@
 
    SPDX-License-Identifier: GPL-3.0-or-later */
 
-#define CPU_MHZ 1
+#define CPU_MHZ 100
