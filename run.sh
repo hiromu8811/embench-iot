@@ -28,5 +28,5 @@ echo "run 19 benchmarks" > runlog.txt
 for bench in "${benchmark[@]}"
 do
     echo "run ${bench}" >> runlog.txt
-    time simrv -a -m bd/bin/${bench}.bin -e 1G &>> runlog.txt
+    simrv -a -m bd/bin/${bench}.bin -e 1G >> runlog.txt
 done

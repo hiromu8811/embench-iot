@@ -3,26 +3,28 @@ run aha-mont64
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
 
+correct!
 
 __ Power off
-__ Elapsed clocks (mtime)   :   791608086
-__ Executed instructions    :   791608085
+__ Elapsed clocks (mtime)   :   791608141
+__ Executed instructions    :   791608140
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    52265381
-__ Simulation speed (KIPS)  :       15145
+__ Elapsed time (usec)      :    52152066
+__ Simulation speed (KIPS)  :       15178
 run crc32
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
 
+correct!
 
 __ Power off
-__ Elapsed clocks (mtime)   :   505200438
-__ Executed instructions    :   505200437
+__ Elapsed clocks (mtime)   :   505200493
+__ Executed instructions    :   505200492
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    34237121
-__ Simulation speed (KIPS)  :       14755
+__ Elapsed time (usec)      :    33932646
+__ Simulation speed (KIPS)  :       14888
 run cubic
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
@@ -33,8 +35,8 @@ __ Elapsed clocks (mtime)   :  1000000000
 __ Executed instructions    :   999999999
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    66130665
-__ Simulation speed (KIPS)  :       15121
+__ Elapsed time (usec)      :    65319280
+__ Simulation speed (KIPS)  :       15309
 run edn
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
@@ -45,20 +47,21 @@ __ Elapsed clocks (mtime)   :  1000000000
 __ Executed instructions    :   999999999
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    63420565
-__ Simulation speed (KIPS)  :       15767
+__ Elapsed time (usec)      :    63121032
+__ Simulation speed (KIPS)  :       15842
 run huffbench
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
 
+correct!
 
 __ Power off
-__ Elapsed clocks (mtime)   :   269460985
-__ Executed instructions    :   269460984
+__ Elapsed clocks (mtime)   :   269434618
+__ Executed instructions    :   269434617
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    19159499
-__ Simulation speed (KIPS)  :       14064
+__ Elapsed time (usec)      :    18927266
+__ Simulation speed (KIPS)  :       14235
 run matmult-int
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
@@ -69,20 +72,21 @@ __ Elapsed clocks (mtime)   :  1000000000
 __ Executed instructions    :   999999999
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    66294181
-__ Simulation speed (KIPS)  :       15084
+__ Elapsed time (usec)      :    65299614
+__ Simulation speed (KIPS)  :       15314
 run minver
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
 
+correct!
 
 __ Power off
-__ Elapsed clocks (mtime)   :   775512093
-__ Executed instructions    :   775512092
+__ Elapsed clocks (mtime)   :   775512148
+__ Executed instructions    :   775512147
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    52892065
-__ Simulation speed (KIPS)  :       14662
+__ Elapsed time (usec)      :    51910010
+__ Simulation speed (KIPS)  :       14939
 run nbody
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
@@ -93,92 +97,99 @@ __ Elapsed clocks (mtime)   :  1000000000
 __ Executed instructions    :   999999999
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    66025744
-__ Simulation speed (KIPS)  :       15145
+__ Elapsed time (usec)      :    65149125
+__ Simulation speed (KIPS)  :       15349
 run nettle-aes
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
 
+correct!
 
 __ Power off
-__ Elapsed clocks (mtime)   :   403860286
-__ Executed instructions    :   403860285
+__ Elapsed clocks (mtime)   :   403860341
+__ Executed instructions    :   403860340
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    27015814
-__ Simulation speed (KIPS)  :       14949
+__ Elapsed time (usec)      :    25694151
+__ Simulation speed (KIPS)  :       15717
 run nettle-sha256
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
 
+correct!
 
 __ Power off
-__ Elapsed clocks (mtime)   :   339324631
-__ Executed instructions    :   339324630
+__ Elapsed clocks (mtime)   :   339324686
+__ Executed instructions    :   339324685
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    22401176
-__ Simulation speed (KIPS)  :       15147
+__ Elapsed time (usec)      :    22208153
+__ Simulation speed (KIPS)  :       15279
 run nsichneu
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
 
+correct!
 
 __ Power off
-__ Elapsed clocks (mtime)   :   239119242
-__ Executed instructions    :   239119241
+__ Elapsed clocks (mtime)   :   239119297
+__ Executed instructions    :   239119296
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    16911581
-__ Simulation speed (KIPS)  :       14139
+__ Elapsed time (usec)      :    16784443
+__ Simulation speed (KIPS)  :       14246
 run picojpeg
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
 
+correct!
 
 __ Power off
-__ Elapsed clocks (mtime)   :   361554178
-__ Executed instructions    :   361554177
+__ Elapsed clocks (mtime)   :   361554233
+__ Executed instructions    :   361554232
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    25200738
-__ Simulation speed (KIPS)  :       14346
+__ Elapsed time (usec)      :    24403842
+__ Simulation speed (KIPS)  :       14815
 run qrduino
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
 
+correct!
 
 __ Power off
-__ Elapsed clocks (mtime)   :   633261908
-__ Executed instructions    :   633261907
+__ Elapsed clocks (mtime)   :   633278190
+__ Executed instructions    :   633278189
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    45424333
-__ Simulation speed (KIPS)  :       13941
+__ Elapsed time (usec)      :    44601190
+__ Simulation speed (KIPS)  :       14198
 run sglib-combined
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
 
+correct!
 
 __ Power off
-__ Elapsed clocks (mtime)   :   303853629
-__ Executed instructions    :   303853628
+__ Elapsed clocks (mtime)   :   303853684
+__ Executed instructions    :   303853683
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    22557101
-__ Simulation speed (KIPS)  :       13470
+__ Elapsed time (usec)      :    21101382
+__ Simulation speed (KIPS)  :       14399
 run slre
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
 
+correct!
 
 __ Power off
-__ Elapsed clocks (mtime)   :   324236774
-__ Executed instructions    :   324236773
+__ Elapsed clocks (mtime)   :   324236829
+__ Executed instructions    :   324236828
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    23674425
-__ Simulation speed (KIPS)  :       13695
+__ Elapsed time (usec)      :    22380863
+__ Simulation speed (KIPS)  :       14487
 run st
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
@@ -189,41 +200,44 @@ __ Elapsed clocks (mtime)   :  1000000000
 __ Executed instructions    :   999999999
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    67549857
-__ Simulation speed (KIPS)  :       14803
+__ Elapsed time (usec)      :    65564572
+__ Simulation speed (KIPS)  :       15252
 run statemate
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
 
+correct!
 
 __ Power off
-__ Elapsed clocks (mtime)   :   344345506
-__ Executed instructions    :   344345505
+__ Elapsed clocks (mtime)   :   344345561
+__ Executed instructions    :   344345560
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    22501778
-__ Simulation speed (KIPS)  :       15303
+__ Elapsed time (usec)      :    22687953
+__ Simulation speed (KIPS)  :       15177
 run ud
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
 
+correct!
 
 __ Power off
-__ Elapsed clocks (mtime)   :   478526846
-__ Executed instructions    :   478526845
+__ Elapsed clocks (mtime)   :   478526901
+__ Executed instructions    :   478526900
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    33636640
-__ Simulation speed (KIPS)  :       14226
+__ Elapsed time (usec)      :    33528756
+__ Simulation speed (KIPS)  :       14272
 run wikisort
 __ SimCore/RISC-V Functional Simulator Version 1.2.8 test01 2019-11-17
 __ Please type Control+'q' to quit the simulation
 
+correct!
 
 __ Power off
-__ Elapsed clocks (mtime)   :   614634656
-__ Executed instructions    :   614634655
+__ Elapsed clocks (mtime)   :   614634711
+__ Executed instructions    :   614634710
 __ Executed uc_instructions :           0
 __ Fetched compressed insns :           0
-__ Elapsed time (usec)      :    42063726
-__ Simulation speed (KIPS)  :       14611
+__ Elapsed time (usec)      :    41202838
+__ Simulation speed (KIPS)  :       14917

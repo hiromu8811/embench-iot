@@ -36,6 +36,8 @@ main (int argc __attribute__ ((unused)),
   correct = verify_benchmark (result);
 
   // simrv function
+  if(correct) simrv_puts("correct!\n");
+  else        simrv_puts("mistake...\n");
   simrv_exit();
 
   return (!correct);
